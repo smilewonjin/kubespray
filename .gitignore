@@ -24,6 +24,7 @@ plugins/mitogen
 
 # Ansible inventory
 #inventory/*
+#inventory/mycluster/credentials/*
 #!inventory/local
 #!inventory/sample
 #inventory/*/artifacts/
